@@ -1,0 +1,12 @@
+.introduction {
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+    /* gap:10px;  */
+  }
+
+  /* @media (max-width: 768px) {
+   .introduction{
+    padding-top: 10px ;
+   }
+  } */

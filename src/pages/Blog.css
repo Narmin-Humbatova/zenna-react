@@ -1,0 +1,81 @@
+.blog-main .blog-icon {
+    margin-left: 7px;
+    margin-right: 4px;
+    font-size: 12px;
+}
+
+.blog-main p {
+    color: #7F7F7F;
+}
+
+.designing {
+    background-color: #F7F8F9;
+}
+
+/* .blog-foto .main-img img {
+w
+} */
+
+.designing h4 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.designing p {
+    font-size: 14px;
+}
+
+.categories a {
+    text-decoration: none;
+    color: #7F7F7F;
+}
+
+.mobile-app .bernard {
+    background-color: #F7F8F9;
+}
+
+.mobile-app b {
+    color: #000;
+}
+
+.mobile-app span {
+    color: #7F7F7F;
+}
+
+.mobile-app .possess {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.blog-main h5 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.mobile-right .tweets button {
+    padding: 3px 5px;
+    border: none;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.mobile-right .tweets button a {
+    text-decoration: none;
+    color: #7F7F7F;
+}
+
+.reply button {
+    padding: 10px 30px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 0%;
+    border: none;
+    background-color: #000;
+    color: #F7F8F9;
+}
+
+/* @media (max-width: 768px) {
+    .card {
+      width: 100%; 
+    }
+  } */

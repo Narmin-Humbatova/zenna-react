@@ -1,0 +1,112 @@
+.header .links a {
+  margin: 15px;
+  text-decoration: none;
+  color: #121212;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.header .account{
+  display: none;
+}
+
+.header .zenna {
+  width: 100px;
+}
+
+.header .account a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #121212;
+}
+
+.bars-icon {
+  position: absolute;
+  right: 15px;
+  top: 63px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 50px 20px;
+  background-color: #fff;
+  box-shadow: -11px -9px 30px rgba(0, 0, .7);
+  width: 300px;
+  height: 100vh;
+  transform: translateX(-100%);
+  transition: trasform 1.5s ease-out;
+  z-index: 9999999;
+}
+
+.mobile-menu.aktiv {
+  transform: translateX(0);
+}
+
+.close-icon {
+  position: absolute;
+  right: 20px;
+  top: 40px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.mobile-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.mobile-links span {
+  margin: 30px 0;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.mobile-links a {
+  color: #121212;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 30px 0 10px;
+}
+
+
+@media (max-width: 768px) {
+  .navbar-header .links {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: block;
+  }
+
+  .bars-icon {
+    display: block;
+  }
+}
+
+@media (min-width: 769px) {
+  .header .account {
+    display: flex;
+  }
+
+  .mobile-menu {
+    display: none;
+  }
+
+  .bars-icon {
+    display: none;
+  }
+
+  .links {
+    display: flex;
+  }
+
+  .header .account .search{
+    margin: 0 15px;
+    justify-self: center;
+  }
+}

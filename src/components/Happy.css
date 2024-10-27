@@ -1,0 +1,40 @@
+.happy {
+    padding-top: 130px;
+    background-image: url(/public/image/testimonial_bg.jpg);
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+}
+
+.happy .clients h3 {
+    font-weight: 700;
+}
+
+
+.happySlide .slideProps {
+    position: relative;
+    text-align: center;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background-color: #B79D82;
+    width: 15px;
+    height: 15px;
+}
+
+@media (max-width: 320px){
+    .happy{
+        height: 100vh;
+ 
+    }
+}
+
+@media (min-width: 768px){
+    .happy{
+        height: 60vh;
+ 
+    }
+}

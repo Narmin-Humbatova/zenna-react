@@ -1,0 +1,46 @@
+.pictures {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.142)), url('/public/image/pictures/picture2.jpg') no-repeat fixed;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+
+.pictures .arrivals {
+    position: absolute;
+    top: 58%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.pictures .arrivals h2 {
+    font-weight: 800;
+    font-size: 50px;
+
+}
+
+.pictures .arrivals .shop {
+    position: absolute;
+    top: 100%;
+    right: 50%;
+    transform: translate(50%, 50%);
+    background-color: #b79d82;
+    color: #fff;
+    height: 70px;
+    width: 150px;
+    border-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media (min-width: 768px) {
+    .pictures .arrivals h2 {
+        font-weight: 800;
+        font-size: 65px;
+    
+    }
+}

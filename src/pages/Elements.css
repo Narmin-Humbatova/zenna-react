@@ -1,0 +1,119 @@
+.elements-main .typography {
+    background-color: #F7F8F9;
+}
+
+.elements-main .typography h4 {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.elements-main p {
+    color: #7F7F7F;
+}
+
+.blockquotes-style-1 {
+    padding: 40px;
+    background-color: #f7f8f9;
+}
+
+.blockquates-style-2 {
+    padding: 20px 40px;
+    border-left: 2px solid #b79d82;
+}
+
+.blockquates hr {
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.elements-main h5{
+    font-weight: 700;
+}
+
+.blockquotes small{
+    color: #b79d82 !important;
+}
+
+.dropcaps .dropcap.style-1 {
+    float: left;
+    color: #b79d82;
+    font-size: 47px;
+    line-height: 48px;
+    padding-right: 10px;
+}
+
+.dropcap.style-2 {
+    float: left;
+    color: #fff;
+    text-align: center;
+    background-color: #b79d82;
+    width: 38px;
+    height: 38px;
+    font-size: 24px;
+    line-height: 40px;
+    margin: 7px 10px 0 0;
+}  
+
+.html-style p .text {
+    padding: 2px;
+    background-color: #b79d82;
+    color: #fff;
+}
+
+.bullents ul{
+    color: #7F7F7F;
+}
+
+.list li {
+margin-left: 20px;
+}
+
+.list2 ul, .list3 ul, .list4 ul {
+    list-style: none;
+}
+
+.list2 span, .list3 span, .list4 span {
+    color: #b79d82;
+    margin-right: 10px;
+}
+
+.columns h6{
+    font-weight: 700;
+}
+
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.heading h2{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.heading h3{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.heading h4{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.heading h5{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.heading h6{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+}
+

@@ -1,0 +1,74 @@
+[
+    {
+        "card_img":"/public/image/mainCards/shop_item_3.jpg",
+        "card_main":"Special Offer",
+        "card_name":"Tribal Grey Blazer",
+        "card_number":"$330.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_11.jpg",
+        "card_main":"Bestsellers",
+        "card_name":"Mattle Brown Bag",
+        "card_number":"$150.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_8.jpg",
+        "card_main":"Accessories",
+        "card_name":"Jersey Stylish",
+        "card_number":"$289.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_12.jpg",
+        "card_main":"Top Rated",
+        "card_name":"Sport T-Shirt",
+        "card_number":"$230.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_2.jpg",
+        "card_main":"Special Offer",
+        "card_name":"Mesh Brown Sandal",
+        "card_number":"$190.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_10.jpg",
+        "card_main":"Bestsellers",
+        "card_name":"Heathered Scarf",
+        "card_number":"$180.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_7.jpg",
+        "card_main":"Accessories",
+        "card_name":"Watch",
+        "card_number":"$280.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_6.jpg",
+        "card_main":"Top Rated",
+        "card_name":"Faux Suits",
+        "card_number":"$233.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_1.jpg",
+        "card_main":"Special Offer",
+        "card_name":"Skinny Dress",
+        "card_number":"$159.99"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_9.jpg",
+        "card_main":"Bestsellers ",
+        "card_name":"Camo Belt",
+        "card_number":"$33.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_5.jpg",
+        "card_main":"Accessories",
+        "card_name":"Lola May Crop Blazer",
+        "card_number":"$42.00"
+    },
+    {
+        "card_img":"/public/image/mainCards/shop_item_4.jpg",
+        "card_main":"Top Rated",
+        "card_name":"Sweater w/ Colar",
+        "card_number":"$299.00"
+    }
+]

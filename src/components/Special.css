@@ -1,0 +1,31 @@
+.special-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.special-img-texts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.special-img-texts img {
+ width: 84px;
+ height: 112px;
+  display: block;
+}
+  
+.specialSwiper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+
+.special-link{
+  text-decoration: none;
+  color: black;
+}

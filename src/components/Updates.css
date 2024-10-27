@@ -1,0 +1,17 @@
+.updates {
+    background-color: #F7F8F9;
+}
+
+.updates-text h5 {
+    font-weight: 700;
+}
+
+.updates button{
+    background-color: #000;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border: none;
+    cursor: pointer;
+}

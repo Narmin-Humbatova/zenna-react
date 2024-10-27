@@ -1,0 +1,33 @@
+.notification {
+    background-color: #121212;
+}
+
+.notification span {
+    font-size: 10px;
+    color: #727272;
+}
+
+.notification article {
+    display: inline-block;
+    position: relative;
+    font-size: 9px;
+}
+
+.notification .login {
+    font-size: 9px;
+}
+
+
+@media (min-width: 768px) {
+    .notification article {
+        font-size: 12px !important;
+    }
+
+    .notification span {
+        font-size: 12px !important;
+    }
+
+    .notification .login {
+        font-size: 12px !important;
+    }
+}
